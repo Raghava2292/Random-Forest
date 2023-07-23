@@ -1,0 +1,6 @@
+Two trained random forest models for two different tasks
+
+1. A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
+Approach - A random forest can be built with target variable Sale (we will first convert it in categorical variable) & all other variable will be independent in the analysis.
+
+2. Using the random forest to prepare a model to predict whether a person is Risky or Safe treating those who have taxable_income <= 30000 as "Risky" and others are "Safe".
